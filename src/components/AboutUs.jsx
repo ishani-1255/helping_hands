@@ -8,8 +8,10 @@ function AboutUs() {
             <p>
             At Helping Hands, we are passionate about making the world a better place. 
             Our mission is to connect individuals and organizations with charitable causes, 
-            making it easy for you to contribute to positive change and to facilitate and support charitable giving. We believe that everyone can play a part in making the world a better place, 
-            and we're here to make that process as seamless as possible.
+            making it easy for you to contribute to positive change and to facilitate 
+            and support charitable giving. We believe that everyone can play 
+            a part in making the world a better place, and we're here to make
+             that process as seamless as possible.
             </p>
         </section>
     );
