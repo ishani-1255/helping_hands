@@ -1,10 +1,13 @@
 import React from 'react';
 import './NavBar.css'; 
+import Logo from "./Logo.png";
 
 function NavBar() {
     return (
         <nav className="navbar">
-            <div className="nav-logo">Your Logo</div>
+            <div className="nav-logo">
+                <img src = {Logo} alt="Your Logo"/>
+            </div>
             <ul className="nav-links">
                 <li><a href="/">Home</a></li>
                 <li><a href="/causes">Causes</a></li>
